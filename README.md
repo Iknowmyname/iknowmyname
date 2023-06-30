@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img  src="https://assets9.lottiefiles.com/packages/lf20_zdtukd5q.json"
+  <img  src="https://github.com/Iknowmyname/iknowmyname/blob/main/Lottie.tgs"
        alt="snake" /></a>
 </div>
 
