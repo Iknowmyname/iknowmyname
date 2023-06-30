@@ -5,6 +5,13 @@
        alt="snake" /></a>
 </div>
 
+<div align="center">
+  <img  src="https://assets9.lottiefiles.com/packages/lf20_zdtukd5q.json"
+       alt="snake" /></a>
+</div>
+
+
+
 <h2>👨‍💻 Self Projects:</h2>
 
 - <b>Home Lab</b>
