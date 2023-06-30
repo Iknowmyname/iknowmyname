@@ -1,5 +1,10 @@
 <h1>Greetings! I am Iknowmyname! <br/><a href="https://github.com/iknowmyname">CyberSecurity Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">FrontEnd Developer</a></h1>
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h2>👨‍💻 Self Projects:</h2>
 
 - <b>Home Lab</b>
