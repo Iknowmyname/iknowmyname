@@ -5,10 +5,6 @@
        alt="snake" /></a>
 </div>
 
-<div align="center">
-  <img  src="https://github.com/Iknowmyname/iknowmyname/blob/main/Lottie.tgs"
-       alt="snake" /></a>
-</div>
 
 
 
