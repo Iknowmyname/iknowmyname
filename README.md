@@ -5,18 +5,18 @@
 - <b>Home Lab</b>
   - [Setting Up A Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Exploiting Vulnerable Virtual Machine</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Hacking Mr Robot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Metasploitable Network Scan</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Nmap Scans](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Exploiting Found CVEs)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Scanning with Nessus](https://github.com/joshmadakor1/AD_PS)
+
 - <b>Network Prototype (Packet Tracer)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Network Configurations](https://github.com/joshmadakor1/EncrypterPOC)
+  - [SSH & Port Security](https://github.com/joshmadakor1/DecrypterPOC)
+  - [ACL Configuration](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python Scripts </b>
+  - [Python-Based Keylogger](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Portfolio Website</h2>
 
