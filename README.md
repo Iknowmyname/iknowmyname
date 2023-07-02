@@ -16,24 +16,20 @@
   - [Hacking Mr Robot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Metasploitable Network Scan</b>
   - [Nmap Scans](https://github.com/Iknowmyname/Nmap-Scans-M2)
-  - [Exploiting Found CVEs)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Scanning with Nessus](https://github.com/joshmadakor1/AD_PS)
+  <!-- - [Exploiting Found CVEs)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Scanning with Nessus](https://github.com/joshmadakor1/AD_PS) -->
 
 - <b>Network Prototype (Packet Tracer)</b>
-  - [Network Configurations](https://github.com/joshmadakor1/EncrypterPOC)
-  - [SSH & Port Security](https://github.com/joshmadakor1/DecrypterPOC)
-  - [ACL Configuration](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Network Configurations](https://github.com/Iknowmyname/Network_Prototype)
+ <!-- - [SSH & Port Security](https://github.com/joshmadakor1/DecrypterPOC)
+  - [ACL Configuration](https://github.com/joshmadakor1/Key-Logger-With-Email) -->
 - <b>Python Scripts </b>
   - [Python-Based Keylogger](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Portfolio Website</h2>
 
-- [Get To Know Me](https://www.youtube.com/watch?v=a83ASGn_V_s)
-<!-- - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
--->
+- [Get To Know Me]( https://iknowmyname.github.io/)
+
 
 <h2> 🤳 Connect with me:</h2>
 
