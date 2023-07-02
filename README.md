@@ -15,7 +15,7 @@
 - <b>Exploiting Vulnerable Virtual Machine</b>
   - [Hacking Mr Robot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Metasploitable Network Scan</b>
-  - [Nmap Scans](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Nmap Scans](https://github.com/Iknowmyname/Nmap-Scans-M2)
   - [Exploiting Found CVEs)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Scanning with Nessus](https://github.com/joshmadakor1/AD_PS)
 
