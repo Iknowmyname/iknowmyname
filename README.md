@@ -10,10 +10,12 @@
 
 <h2>👨‍💻 Self Projects:</h2>
 
+<!--
 - <b>Home Lab</b>
   - [Setting Up A Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Exploiting Vulnerable Virtual Machine</b>
   - [Hacking Mr Robot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  -->
 - <b>Metasploitable Network Scan</b>
   - [Nmap Scans](https://github.com/Iknowmyname/Nmap-Scans-M2)
   <!-- - [Exploiting Found CVEs)](https://github.com/joshmadakor1/Jwipe.PowerShell)
