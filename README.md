@@ -24,7 +24,7 @@
  <!-- - [SSH & Port Security](https://github.com/joshmadakor1/DecrypterPOC)
   - [ACL Configuration](https://github.com/joshmadakor1/Key-Logger-With-Email) -->
 - <b>Python Scripts </b>
-  - [Python-Based Keylogger](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python-Based Port Scanner](https://github.com/Iknowmyname/Python-Based-Port-Scanner)
 
 <h2>📺 Portfolio Website</h2>
 
