@@ -1,4 +1,4 @@
-<h1>Greetings! I am Yashveen! <br/>CyberSecurity Student,>FrontEnd Developer</h1>
+<h1>Greetings! I am Yashveen! <br/>CyberSecurity Student | FrontEnd Developer</h1>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
