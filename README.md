@@ -18,6 +18,7 @@
   -->
 - <b>Metasploitable Network Scan</b>
   - [Nmap Scans](https://github.com/Iknowmyname/Nmap-Scans-M2)
+  - [Exploitation](https://github.com/Iknowmyname/Exploiting-M2)
   <!-- - [Exploiting Found CVEs)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Scanning with Nessus](https://github.com/joshmadakor1/AD_PS) -->
 
