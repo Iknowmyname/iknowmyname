@@ -1,9 +1,6 @@
 <h1>sudo whoami <br/>Yash | Full Stack Developer | AI Engineer</h1>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 
