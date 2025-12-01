@@ -16,18 +16,18 @@
 - <b>Exploiting Vulnerable Virtual Machine</b>
   - [Hacking Mr Robot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   -->
+
+- <b>Net-Intelligence </b>
+  - [Python-Based AI-Assisted Port Scanner](https://github.com/Iknowmyname/Python-Based-Port-Scanner)
 - <b>Metasploitable Network Scan</b>
   - [Nmap Scans](https://github.com/Iknowmyname/Nmap-Scans-M2)
   - [Exploitation](https://github.com/Iknowmyname/Exploiting-M2)
   <!-- - [Exploiting Found CVEs)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Scanning with Nessus](https://github.com/joshmadakor1/AD_PS) -->
 
-- <b>Network Prototype (Packet Tracer)</b>
-  - [Network Configurations](https://github.com/Iknowmyname/Network_Prototype)
  <!-- - [SSH & Port Security](https://github.com/joshmadakor1/DecrypterPOC)
   - [ACL Configuration](https://github.com/joshmadakor1/Key-Logger-With-Email) -->
-- <b>Python Scripts </b>
-  - [Python-Based Port Scanner](https://github.com/Iknowmyname/Python-Based-Port-Scanner)
+
 
 <h2>📺 Portfolio Website</h2>
 
