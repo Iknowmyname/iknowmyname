@@ -1,4 +1,4 @@
-<h1>sudo whoami <br/>Yash | Full Stack Developer | AI Engineer</h1>
+<h1>sudo whoami <br/>Yash | Full Stack Developer | E-Commerce</h1>
 
 
 
