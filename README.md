@@ -7,9 +7,7 @@
 # Hi, I’m Yashveen
 
 <p>
-  <a href="<YOUR_PORTFOLIO_URL>"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="<YOUR_LINKEDIN_URL>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:<YOUR_EMAIL>"><img alt="Email" src="https://img.shields.io/badge/Email-0A0F1F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:yashveen77@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0A0F1F?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p>
