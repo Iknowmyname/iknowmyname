@@ -1,53 +1,111 @@
-<h1>sudo whoami <br/>Yash | Full Stack Developer | E-Commerce</h1>
+<!-- ========================= -->
+<!--        PROFILE README     -->
+<!-- ========================= -->
+
+<div align="center">
+
+# Hi, I’m Yashveen
+
+<p>
+  <a href="<YOUR_PORTFOLIO_URL>"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="<YOUR_LINKEDIN_URL>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:<YOUR_EMAIL>"><img alt="Email" src="https://img.shields.io/badge/Email-0A0F1F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<p>
+  <b>Backend / Full-Stack Engineer</b> building modern systems with deep learning model integration.
+</p>
+
+</div>
+
+---
+
+- I build **production-style backend APIs**, **data ingestion pipelines**, and **modern UIs**
+- I care about **scalability**, **reliability**, and **clean architecture**
+- I’m actively sharpening **system design**, **DSA**, and **AI engineering**
+
+---
+
+## What I’m currently working on
+
+- **AWS-hosted Java Spring Boot services with Retrieval-Augmented Generation (RAG) and LLM querying**  
 
 
+- **Enhancement of Real-Time DeepFake Detection Plugin for Instagram via custom CNN models and PyTorch framework**  
 
 
+---
+
+## Skills & Technologies
+
+<div align="center">
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-0A0F1F?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-0A0F1F?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-0A0F1F?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-0A0F1F?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-0A0F1F?style=for-the-badge&logo=csharp&logoColor=white">
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0A0F1F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-0A0F1F?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_API-0A0F1F?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/FAST_API-0A0F1F?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/SPRING-0A0F1F?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Auth_%26_Security-0A0F1F?style=for-the-badge&logo=auth0&logoColor=white">
+</p>
+
+### Databases & Data
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0F1F?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/MONGO DB-0A0F1F?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-0A0F1F?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-0A0F1F?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Indexing_%26_Performance-0A0F1F?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-0A0F1F?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-0A0F1F?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-0A0F1F?style=for-the-badge&logo=vite&logoColor=white">
+</p>
+
+### DevOps / Tooling
+<p>
+  <img src="https://img.shields.io/badge/Git-0A0F1F?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-0A0F1F?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-0A0F1F?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0F1F?style=for-the-badge&logo=githubactions&logoColor=white">
+</p>
+
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-0A0F1F?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer_Vision-0A0F1F?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/LLMs_%26_RAG-0A0F1F?style=for-the-badge&logo=openai&logoColor=white">
+</p>
+
+</div>
+
+---
+
+## My Socials
 
 
-<h2>👨‍💻 Self Projects:</h2>
-
-<!--
-- <b>Home Lab</b>
-  - [Setting Up A Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Exploiting Vulnerable Virtual Machine</b>
-  - [Hacking Mr Robot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  -->
-
-- <b>Net-Intelligence </b>
-  - [Python-Based AI-Assisted Port Scanner](https://github.com/Iknowmyname/Python-Based-Port-Scanner)
-    
-- <b>Metasploitable Network Scan</b>
-  - [Nmap Scans](https://github.com/Iknowmyname/Nmap-Scans-M2)
-  - [Exploitation](https://github.com/Iknowmyname/Exploiting-M2)
-  <!-- - [Exploiting Found CVEs)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Scanning with Nessus](https://github.com/joshmadakor1/AD_PS) -->
-
- <!-- - [SSH & Port Security](https://github.com/joshmadakor1/DecrypterPOC)
-  - [ACL Configuration](https://github.com/joshmadakor1/Key-Logger-With-Email) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=vercel&logoColor=white)]([<YOUR_PORTFOLIO_URL>](https://dev-portfolio-yash.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashveen-puvanesvaran/)
+[![Resume](https://img.shields.io/badge/Resume-0A0F1F?style=for-the-badge&logo=googledocs&logoColor=white)](<YOUR_RESUME_URL>)
 
 
-<h2>📺 Portfolio Website</h2>
+---
 
-- [Get To Know Me]( https://iknowmyname.github.io/)
+## Let’s connect
 
+If you’re looking for someone who can build **backend systems with ML integration**, **end-to-end data pipelines**, and **modern UI design** feel free to reach out.
 
-<h2> 🤳 Connect with me:</h2>
-- [Linkedin](www.linkedin.com/in/yashveen-puvanesvaran)
-
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you like my work, consider starring a repo!
