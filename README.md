@@ -95,9 +95,8 @@
 ## My Socials
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=vercel&logoColor=white)]([<YOUR_PORTFOLIO_URL>](https://dev-portfolio-yash.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-portfolio-yash.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashveen-puvanesvaran/)
-[![Resume](https://img.shields.io/badge/Resume-0A0F1F?style=for-the-badge&logo=googledocs&logoColor=white)](<YOUR_RESUME_URL>)
 
 
 ---
